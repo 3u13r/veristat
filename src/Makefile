@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: BSD-2-Clause
-VERISTAT_VERSION ?= 0.5.1
+VERISTAT_VERSION ?= 0.6.0
 DEBUG ?=
 
 OUTPUT := .output
